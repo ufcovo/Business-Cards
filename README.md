@@ -1,9 +1,4 @@
-# KartvizitApp
-
-Video serisine şu adresten ulaşabilirsiniz: https://www.youtube.com/watch?v=47VweSbFHWE&list=PLSM07tMt8osNHLM_yfUnWafZ61m4FIbw1
-
-Projeyi de şuradan inceleyebilirsiniz: https://kartvizit-app.netlify.app/
-
+# Business Cards
 ----------------------------
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.2.
